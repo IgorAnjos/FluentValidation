@@ -1,0 +1,4 @@
+C:\ProjetosGit\FluentValidation\fluentValidation\fluentValidation\bin\Debug\netcoreapp3.1\fluentValidation.exe
+C:\ProjetosGit\FluentValidation\fluentValidation\fluentValidation\obj\Debug\netcoreapp3.1\fluentValidation.csprojAssemblyReference.cache
+C:\ProjetosGit\FluentValidation\fluentValidation\fluentValidation\obj\Debug\netcoreapp3.1\fluentValidation.AssemblyInfoInputs.cache
+C:\ProjetosGit\FluentValidation\fluentValidation\fluentValidation\obj\Debug\netcoreapp3.1\fluentValidation.AssemblyInfo.cs
